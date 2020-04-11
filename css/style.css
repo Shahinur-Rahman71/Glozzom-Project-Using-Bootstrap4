@@ -1,0 +1,68 @@
+.carousel-item {
+  height: 450px; }
+
+#iconpart2 .fa {
+  font-size: 50px;
+  margin-bottom: 10px; }
+
+#thirdpart {
+  background: url("../img/bg1.JPG") no-repeat center top;
+  background-size: cover;
+  min-height: 300px;
+  background-attachment: fixed; }
+  #thirdpart .dark-overlay {
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 300px; }
+
+#videopart {
+  background: url("../img/people.jpeg") no-repeat center top;
+  background-size: cover;
+  min-height: 300px;
+  background-attachment: fixed; }
+  #videopart .over-color {
+    background: rgba(0, 0, 0, 0.7);
+    min-height: 300px; }
+  #videopart .fa {
+    font-size: 50px;
+    color: yellowgreen; }
+
+#photogallery img {
+  height: 300px; }
+
+.inputfield {
+  border-radius: 5px; }
+
+#footers {
+  background-color: black; }
+
+#aboutus {
+  background: url("../img/image5.jpeg") no-repeat center top;
+  background-size: cover;
+  height: 200px;
+  margin-top: 70px;
+  background-attachment: fixed; }
+  #aboutus .dark-overlay {
+    margin-top: 70px;
+    background: rgba(0, 0, 0, 0.7);
+    height: 200px; }
+
+.dosection img {
+  height: 350px;
+  width: 350px; }
+
+.gallery .fa {
+  padding-top: 30px;
+  font-size: 50px; }
+
+#testimonial {
+  background: #f0f0f5; }
+  #testimonial span {
+    background-color: black;
+    color: black; }
+  #testimonial .slick-prev:before {
+    color: #000; }
+  #testimonial .slick-next:before {
+    color: #000; }
+
+.forfont header {
+  font-size: 25px; }
